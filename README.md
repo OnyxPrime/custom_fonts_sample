@@ -1,4 +1,4 @@
-# Embedded Fonts Sample
+# Custom Fonts Sample
 This sample demonstrates how to utilize a custom font in your site without referencing an external source, like Google Fonts.
 
 ## Demo app
